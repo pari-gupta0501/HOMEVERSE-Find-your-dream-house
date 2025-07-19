@@ -1,0 +1,308 @@
+Nestique - Find your dream house
+
+
+# HEADER
+
+<ion-icon name="mail-outline"></ion-icon>
+pariguptainfo@nestique.com
+
+<ion-icon name="location-outline"></ion-icon>
+BVCOE, Paschim Vihar, New Delhi
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+Add Listing
+
+alt = Nestique logo
+
+aria-label = Close Menu
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Service
+Property
+Blog
+Contact
+
+aria-label = Search
+<ion-icon name="search-outline"></ion-icon>
+Search
+
+aria-label = Profile
+<ion-icon name="person-outline"></ion-icon>
+Profile
+
+aria-label = Cart
+<ion-icon name="cart-outline"></ion-icon>
+Cart
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+Menu
+
+
+
+# HERO
+
+<ion-icon name="home"></ion-icon>
+FIND YOUR VIBE, FIND YOUR NESTIQUE
+
+Find Your Dream House By Us
+
+"A Stylish or premium home brand, focused on curated living spaces, modern housing or elegant real estate services. Find a place where you can be yourself."
+
+Make An Enquiry
+
+alt = Modern house model
+
+
+
+# ABOUT
+
+alt = House interior
+
+About Us
+
+Welcome to Nestique: The Leading Real Estate Rental Marketplace.
+
+Style Your Living. Simplify Your Move.<br>
+At Nestique, we believe that finding your dream home should feel like coming home. Whether you're buying, selling, or renting — our platform offers a seamless and stylish real estate experience designed for modern living.
+            
+<ion-icon name="home-outline"></ion-icon>
+Smart Home Design
+
+<ion-icon name="leaf-outline"></ion-icon>
+Beautiful Scene Around
+
+<ion-icon name="wine-outline"></ion-icon>
+Exceptional Lifestyle
+
+<ion-icon name="shield-checkmark-outline"></ion-icon>
+Complete 24/7 Security
+
+Nestique is more than a name – it's a lifestyle.<br>
+Born from a passion for beautiful living, Nestique blends real estate expertise with a touch of style and technology. We serve homeowners, renters, and investors looking for more than just four walls — we help people discover where they truly belong.
+
+Our Services
+
+
+
+#SERVICE
+
+Our Services
+
+Our Main Focus
+
+alt = Service icon
+
+Buy a home
+
+Looking for your dream home? At Nestique, we make home-buying effortless. Browse verified listings, explore virtual tours, and get expert help at every step — from search to settlement. Whether it’s a chic apartment or a spacious family home, your perfect nest is just a click away.
+
+Find A Home
+<ion-icon name="arrow-forward-outline"></ion-icon>
+
+Rent a home
+
+Sell a home
+
+
+
+#PROPERTY
+
+Properties
+
+Featured Listings
+
+alt = New Apartment Nice View
+
+For Rent
+
+<ion-icon name="location"></ion-icon>
+Palm Grove Villas, New Delhi
+
+<ion-icon name="camera"></ion-icon>
+4
+
+<ion-icon name="film"></ion-icon>
+2
+
+₹ 23,999/Month
+
+Spacious and Comfortable Family Home for Rent.
+
+Spacious and Family-Friendly large villa for rent, offering modern amentities, a safe environment, and convient access to schools, parks, and transport.
+
+3
+<ion-icon name="bed-outline"></ion-icon>
+Bedrooms
+
+2
+<ion-icon name="man-outline"></ion-icon>
+Bathrooms
+
+3450
+<ion-icon name="square-outline"></ion-icon>
+Square Ft
+
+Rajeev Malhotra
+Estate Agents
+
+<ion-icon name="resize-outline"></ion-icon>
+<ion-icon name="heart-outline"></ion-icon>
+<ion-icon name="add-circle-outline"></ion-icon>
+
+
+For Sales
+
+alt = Modern Apartments
+Modern Apartments
+
+alt = Comfortable Apartment
+Comfortable Apartment
+
+alt = Luxury villa in Rego Park
+Luxury villa in Rego Park
+
+
+
+# FEATURES
+
+Our Aminities
+
+Building Aminities
+
+<ion-icon name="car-sport-outline"></ion-icon>
+Parking Space
+
+<ion-icon name="arrow-forward-outline"></ion-icon>
+
+<ion-icon name="water-outline"></ion-icon>
+Swimming Pool
+
+<ion-icon name="shield-checkmark-outline"></ion-icon>
+Private Security
+
+<ion-icon name="fitness-outline"></ion-icon>
+Medical Center
+
+<ion-icon name="library-outline"></ion-icon>
+Library Area
+
+<ion-icon name="bed-outline"></ion-icon>
+King Size Beds
+
+<ion-icon name="home-outline"></ion-icon>
+Smart Homes
+
+<ion-icon name="football-outline"></ion-icon>
+Kids Playland
+
+
+
+# BLOG
+
+News & Blogs
+
+Leatest News Feeds
+
+alt = The Most Inspiring Interior Design Of 2023
+
+<ion-icon name="person"></ion-icon>
+by: Admin
+
+<ion-icon name="pricetags"></ion-icon>
+Interior
+
+The Most Inspiring Interior Design Of 2023
+
+<ion-icon name="calendar"></ion-icon>
+Apr 20, 2023
+
+Read More
+
+
+alt = Recent Commercial Real Estate Transactions
+
+Estate
+
+Recent Commercial Real Estate Transactions
+
+
+alt = Renovating a Living Room? Experts Share Their Secrets
+
+Room
+
+Renovating a Living Room? Experts Share Their Secrets
+
+
+
+# CTA
+
+Looking for a dream home?
+
+We can help you realize your dream of a new home
+
+Explore Properties
+<ion-icon name="arrow-forward-outline"></ion-icon>
+
+
+
+# FOOTER
+
+alt = Nestique logo
+
+we’re helping you find where your life happens. A place that’s more than bricks and walls — it’s your nest, your peace, your beginning.
+
+<ion-icon name="location-outline"></ion-icon>
+BVCOE, Paschim Vihar, New Delhi
+
+<ion-icon name="call-outline"></ion-icon>
++91 9891801787
+
+<ion-icon name="mail-outline"></ion-icon>
+pariguptainfo@nestique.com
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Company
+
+About
+Blog
+All Products
+Locations Map
+FAQ
+Contact us
+
+Services
+
+Order tracking
+Wish List
+Login
+My account
+Terms & Conditions
+Promotional Offers
+
+Customer Care
+
+Login
+My account
+Wish List
+Order tracking
+FAQ
+Contact us
+
+&copy; 2025 Nestique:Theluxurylife. All Rights Reserved
+
+
+
+# GO TO TOP
+
+<ion-icon name="chevron-up-outline"></ion-icon>
