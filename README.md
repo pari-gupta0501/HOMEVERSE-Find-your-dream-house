@@ -1,8 +1,6 @@
-  <img src="./readme-images/project-logo.png" />
-
-
-  ![flogo](https://github.com/user-attachments/assets/bc2fd3af-c804-4feb-9fc1-36068bc6a8d8)
-
+  <div align="center">
+<img width="254" height="58" alt="project-logo" src="https://github.com/user-attachments/assets/51e87fda-d620-462c-9350-78074f8eb4d9" />
+    
   <h2 align="center">Homeverse - Real estate website</h2>
 
   Homeverse is fully responsive Real estate website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
@@ -11,12 +9,11 @@
 
 </div>
 
-<br />
+## Demo Screeshots
 
-### Demo Screeshots
+### Homeverse Desktop Demo<img width="1296" height="736" alt="desktop" src="https://github.com/user-attachments/assets/7869033e-a569-4c96-bbd6-e5788c0d2e3f" />
+### Homeverse Mobile Demo<img width="1296" height="736" alt="mobile" src="https://github.com/user-attachments/assets/71fac9ac-23db-4890-bf05-31732c2eda45" />
 
-![homeverse Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-![homeverse Mobile Demo](./readme-images/mobile.png "Mobile Demo")
 
 ### Prerequisites
 
@@ -42,7 +39,7 @@ git clone https://github.com/codewithsadee/homeverse.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Mail](parigupta0001@outlook.com).
 
 ### License
 
